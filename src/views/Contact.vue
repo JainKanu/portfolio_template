@@ -7,29 +7,42 @@
           <span class="green--text">Touch</span>
         </h2>
         <div class="py-4 subheading font-weight-bold">
-          <v-icon large color="green" left>fas fa-map-marker-alt</v-icon>
-          <span>Bathinda,&nbsp;</span>
-          <span class="green--text">Punjab,&nbsp;</span>
-          <span class="green--text">India</span>
+          <p class="m-0" style="width: fit-content">
+            <v-icon size="35" color="green" left class=""
+              >fas fa-map-marker-alt</v-icon
+            >
+            <span>Bathinda,&nbsp;</span>
+            <span class="green--text">Punjab,&nbsp;India</span>
+          </p>
         </div>
         <div class="py-4 subheading font-weight-bold">
-          <p class="m-0" style="width: fit-content;cursor: pointer;" @click="sendEmail()">
-            <v-icon large color="green" left>fas fa-envelope</v-icon>
+          <p
+            class="m-0"
+            style="width: fit-content; cursor: pointer"
+            @click="sendEmail()"
+          >
+            <v-icon size="30" color="green" left>fas fa-envelope</v-icon>
             <span>karan.jain740@</span>
             <span class="green--text">gmail.com</span>
           </p>
         </div>
         <div class="py-4 subheading font-weight-bold">
-          <p class="m-0" style="width: fit-content;cursor: pointer;" @click="callMe()">
-            <v-icon large color="green" left>fas fa-phone</v-icon>
+          <p
+            class="m-0"
+            style="width: fit-content; cursor: pointer"
+            @click="callMe()"
+          >
+            <v-icon size="30" color="green" left>fas fa-phone</v-icon>
             <span>+91&nbsp;</span>
             <span class="green--text">78884 15250</span>
           </p>
         </div>
         <div class="py-4 subheading font-weight-bold">
-          <v-icon large color="green" left>fas fa-check</v-icon>
-          <span>Freelance</span>
-          <span class="green--text">Available</span>
+          <p class="m-0" style="width: fit-content">
+            <v-icon size="30" color="green" left>fas fa-check</v-icon>
+            <span>Freelance</span>
+            <span class="green--text">Available</span>
+          </p>
         </div>
       </v-flex>
 

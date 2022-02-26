@@ -1,6 +1,6 @@
 <template>
   <v-container grid-list-xl>
-    <v-layout column justify-center align-center class="my-5 pb-5">
+    <v-layout column justify-center align-center class="mt-5 pb-5">
       <vue-typer class="headline" :repeat="0" text="Karan Jain"></vue-typer>
       <vue-typer
         :text="text1"
@@ -17,8 +17,8 @@
       ></vue-typer>
     </v-layout>
     <br />
-    <v-layout row justify-center align-center wrap class="mt-5 pt-2">
-      <v-layout row justify-center align-center class="mt-4 pt-2">
+    <v-layout row justify-center align-center wrap>
+      <v-layout row justify-center align-center wrap class="mt-4 pt-2">
         <v-flex xs12 sm12 md4 lg5 xl5>
           <v-card flat color="transparent" max-width="500">
             <v-card-title primary-title>
