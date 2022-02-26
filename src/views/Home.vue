@@ -73,21 +73,12 @@
         </v-flex>
       </v-layout>
       <v-layout row justify-center align-center wrap class="mt-4 pt-2">
-        <v-flex xs12 sm12 md12 lg12 xl12>
-          <v-card
-            flat
-            color="transparent"
-            :style="{ cursor: 'context-menu' }"
-          >
-            <v-img
-              :src="imgUrl"
-              :height="300"
-              :width="300"
-              :aspect-ratio="16 / 9"
-              lazy-src="https://cdn.dribbble.com/users/503653/screenshots/3143656/fluid-loader.gif"
-              contain
-            ></v-img>
-          </v-card>
+        <v-flex xs12 sm12 md12 lg12 xl12 style="margin-right:10px; padding-right:5px;">
+            <img
+              src="../assests/hald.jpg"
+              :height="350"
+              :width="350"
+            />
         </v-flex>
       </v-layout>
     </v-layout>
@@ -121,9 +112,6 @@ export default {
   },
   data () {
     return {
-      width: 200,
-      imgUrl:
-        'https://lh3.googleusercontent.com/hAf7sB2i5cvC6vb9I8YKSFh2GjV8WKbfpl0yhTM36JZPhe129kf3wbfsgwUuVVz8dHyo4j4Tgxx0-g9vaeZ3kpgDc94CauBuCTknZ4YNagCm436UUad8hRXlyLsgJMzZ0xzLCC7k2KGW5x24yekOvXr63ugjUKy2QnoUIalM7bCBfuoe77CG7dHxlu-3tA_uLEl01PYnaS_LDJn0npdDzN67p9JyP2rQQ1g0uAcyqJTgtc1hStA7UwlmE5s8fxOl1HlKVBbOQ2VH94wEpXoWM1w-RVwY2gRBu8jEalQtdyXolxZJ1FHnrcX4V0rLO3ArHzbaE4Qx9NWM6SEc2PxVH7p9Yju6Gyl4mwnMqIkHeVflfV_VnwoXSZFvefQKA8JMJO73uS8B6o4f4QPzXFfXZDh6bBp9LAwJrS7hKhCrDZJ1CA7EqhWFsGuoI7UEdNuj55M2KMqS3RGs0IX4xQtjOgiUEi-A5GFnQO8gunO8qouBxlXsEgynZJi8pRVORweTOfBbSiYu8gECePa44XmRC6LfT1rp7FYfue6_VbWdPtK25zvxe0LIyExjjaSHYjOCYC4HwCYGkoT88J-RnmnbQ7zlyNpDEuQt0TWQNzmqeC6PlMm1uCXJ8hWtxaD32LLchlJ1GdTKb6kUAGS3WFbqHOg7KV-MbihN7r2uqBK6czdrvrdiRBkFvoTZROxwOaeQ7J6_vm3K4tUZ-1zjIPdeJxy8=s600-no?authuser=0',
       icons: [
         { href: 'https://github.com/JainKanu', icon: 'fab fa-github' },
         {
