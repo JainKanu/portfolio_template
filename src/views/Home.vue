@@ -75,7 +75,7 @@
       <v-layout row justify-center align-center wrap class="mt-4 pt-2">
         <v-flex xs12 sm12 md12 lg12 xl12 style="margin-right:10px; padding-right:5px;">
             <img
-              src="../assests/hald.jpg"
+              src="../assests/half.jpeg"
               :height="350"
               :width="350"
             />
