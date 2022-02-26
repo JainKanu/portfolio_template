@@ -32,7 +32,7 @@
         @click.stop="drawer = !drawer"
       ></v-toolbar-side-icon>
       <v-toolbar-title class="headline">
-        <span class="font-weight-light">Karan</span>
+        <span class="font-weight-light">Karan&nbsp;</span>
         <span class="green--text">Jain</span>
       </v-toolbar-title>
       <v-spacer></v-spacer>
