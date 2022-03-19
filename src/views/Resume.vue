@@ -159,8 +159,9 @@
         </v-flex>
         <div class="mt-4 pt-2">
           <v-btn
-            href="https://drive.google.com/file/d/1MQ__gbJ-YUDQBZX8qV_xjRcNKEZK4u8p/view?usp=sharing"
+            href="https://drive.google.com/u/0/uc?id=1MQ__gbJ-YUDQBZX8qV_xjRcNKEZK4u8p&export=download"
             target="_blank"
+            download
             color="green"
             dark
             large
