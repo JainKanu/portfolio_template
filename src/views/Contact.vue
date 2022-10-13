@@ -23,7 +23,7 @@
           >
             <v-icon size="30" color="green" left>fas fa-envelope</v-icon>
             <span>karan.jain740@</span>
-            <span class="green--text">gmail.com</span>
+            <span class="green--text">icloud.com</span>
           </p>
         </div>
         <div class="py-4 subheading font-weight-bold">
@@ -149,7 +149,7 @@ export default {
   },
   methods: {
     sendEmail () {
-      window.location = 'mailto:karan.jain740@gmail.com'
+      window.location = 'mailto:karan.jain740@icloud.com'
     },
     callMe () {
       window.location = 'tel:+917888415250'
