@@ -34,9 +34,23 @@
                 </v-flex>
                 <v-flex class="pl-2">
                   <strong>Higher Secondary (12th Pass)</strong>
-                  <div class="caption mb-2">
-                    Punjab school education board
+                  <div class="caption mb-2">Punjab school education board</div>
+                </v-flex>
+              </v-layout>
+            </v-timeline-item>
+            <v-timeline-item color="green" small>
+              <v-layout pt-3>
+                <v-flex xs4>
+                  <div class="caption font-weight-bold green--text">
+                    July 2015 -
                   </div>
+                  <div class="caption font-weight-bold green--text">
+                    April 2018
+                  </div>
+                </v-flex>
+                <v-flex class="pl-2">
+                  <strong>Bachelors's in Computer Application (B.C.A)</strong>
+                  <div class="caption mb-2">Punjabi University, Patiala</div>
                 </v-flex>
               </v-layout>
             </v-timeline-item>
@@ -159,7 +173,7 @@
         </v-flex>
         <div class="mt-4 pt-2">
           <v-btn
-            href="https://drive.google.com/u/0/uc?id=1MQ__gbJ-YUDQBZX8qV_xjRcNKEZK4u8p&export=download"
+            href="https://drive.google.com/file/d/1yMYHPKRTDqJuKbuOlV0MYQcTqIkeT_ho/view?usp=sharing"
             target="_blank"
             download
             color="green"

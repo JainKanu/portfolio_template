@@ -29,11 +29,16 @@
                 </h3>
                 <div>
                   <p>
-                    Hello! I’m Karan Jain. I'm a front-end developer who is
-                    passionate about
-                    <span class="green--text font-weight-bold">VUE</span>,
-                    building great user experiences, fighting for simplicity
-                    over complexity and constantly learning.
+                    Hello! I’m Karan Jain. An front-end developer who is
+                    passionate about building great user experiences, fighting
+                    for simplicity over complexity and constantly learning. As
+                    a front-end developer i have 3.8 years of successful
+                    experience. Recognized consistently for performance
+                    excellence & contributions to success. Designed & developed
+                    forward-thinking systems that meet user needs & improve
+                    productivity. Estimated work hours & tracked progress using
+                    Scrum methodology. Worked with project managers, developers,
+                    quality assurance & clients as their needs.
                   </p>
                 </div>
               </div>
@@ -73,12 +78,15 @@
         </v-flex>
       </v-layout>
       <v-layout row justify-center align-center wrap class="mt-4 pt-2">
-        <v-flex xs12 sm12 md12 lg12 xl12 style="margin-right:10px; padding-right:5px;">
-            <img
-              src="../assests/half.jpeg"
-              :height="350"
-              :width="350"
-            />
+        <v-flex
+          xs12
+          sm12
+          md12
+          lg12
+          xl12
+          style="margin-right: 10px; padding-right: 5px"
+        >
+          <img src="../assests/half.jpeg" :height="350" :width="350" />
         </v-flex>
       </v-layout>
     </v-layout>
