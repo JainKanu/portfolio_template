@@ -86,7 +86,7 @@
           xl12
           style="margin-right: 10px; padding-right: 5px"
         >
-          <img src="../assests/half.jpeg" :height="350" :width="350" />
+          <img src="../assests/pic.jpg" :height="350" :width="350" />
         </v-flex>
       </v-layout>
     </v-layout>
