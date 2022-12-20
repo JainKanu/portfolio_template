@@ -29,16 +29,18 @@
                 </h3>
                 <div>
                   <p>
-                    Hello! I’m Karan Jain. An front-end developer who is
-                    passionate about building great user experiences, fighting
-                    for simplicity over complexity and constantly learning. As
-                    a front-end developer i have 3.8 years of successful
-                    experience. Recognized consistently for performance
-                    excellence & contributions to success. Designed & developed
-                    forward-thinking systems that meet user needs & improve
-                    productivity. Estimated work hours & tracked progress using
-                    Scrum methodology. Worked with project managers, developers,
-                    quality assurance & clients as their needs.
+                    Hello! I’m Karan Jain. Detail-oriented, analytical Lead
+                    Software Engineer with more than 4 years of experience in
+                    creating and executing innovative software solutions to
+                    enhance business productivity. Highly experienced in all
+                    aspects of the software development lifecycle and end-to-end
+                    project management, from concept through to development and
+                    delivery. Consistently recognized as a hands-on and
+                    competent leader, skilled at coordinating cross-functional
+                    teams in a fastpaced, deadline-driven environment to steer
+                    timely project completion within budgetary constraints.
+                    Seeking to involve with an organization to showcase my
+                    potential and enhance my skills.
                   </p>
                 </div>
               </div>
@@ -135,7 +137,7 @@ export default {
           icon: 'fab fa-instagram'
         }
       ],
-      text1: ['Front-End Developer', 'Web Developer', 'Web Designer']
+      text1: ['Lead Front-End Engineer', 'Senior Web Developer', 'Web Designer']
     }
   }
 }

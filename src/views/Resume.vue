@@ -72,7 +72,7 @@
                   </div>
                 </v-flex>
                 <v-flex class="pl-2">
-                  <strong>Frontend Lead | Software Engineer</strong>
+                  <strong>Lead Software Engineer</strong>
                   <div class="caption mb-2">Albanero Dev Pvt. Ltd.</div>
                 </v-flex>
               </v-layout>
@@ -173,7 +173,7 @@
         </v-flex>
         <div class="mt-4 pt-2">
           <v-btn
-            href="https://drive.google.com/file/d/1yMYHPKRTDqJuKbuOlV0MYQcTqIkeT_ho/view?usp=sharing"
+            href="https://drive.google.com/file/d/1E_MfzJ9OqEeOwl651BQ-gA5g2RaOz8Oc/view?usp=share_link"
             target="_blank"
             download
             color="green"
