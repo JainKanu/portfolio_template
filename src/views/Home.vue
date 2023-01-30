@@ -19,7 +19,7 @@
     <br />
     <v-layout row justify-center align-center wrap>
       <v-layout row justify-center align-center wrap class="mt-4 pt-2">
-        <v-flex xs12 sm12 md4 lg5 xl5>
+        <v-flex xs12 sm12 md4 lg8 xl5>
           <v-card flat color="transparent" max-width="500">
             <v-card-title primary-title>
               <div>
@@ -81,14 +81,14 @@
       </v-layout>
       <v-layout row justify-center align-center wrap class="mt-4 pt-2">
         <v-flex
-          xs12
+          xs9
           sm12
           md12
-          lg12
+          lg7
           xl12
           style="margin-right: 10px; padding-right: 5px"
         >
-          <img src="../assests/pic.jpg" :height="350" :width="350" />
+          <img src="../assests/pic.jpg" :height="350" :width="300" />
         </v-flex>
       </v-layout>
     </v-layout>

@@ -38,22 +38,6 @@
                 </v-flex>
               </v-layout>
             </v-timeline-item>
-            <v-timeline-item color="green" small>
-              <v-layout pt-3>
-                <v-flex xs4>
-                  <div class="caption font-weight-bold green--text">
-                    July 2015 -
-                  </div>
-                  <div class="caption font-weight-bold green--text">
-                    April 2018
-                  </div>
-                </v-flex>
-                <v-flex class="pl-2">
-                  <strong>Bachelors's in Computer Application (B.C.A)</strong>
-                  <div class="caption mb-2">Punjabi University, Patiala</div>
-                </v-flex>
-              </v-layout>
-            </v-timeline-item>
           </v-timeline>
         </v-card-text>
       </v-flex>
@@ -173,7 +157,7 @@
         </v-flex>
         <div class="mt-4 pt-2">
           <v-btn
-            href="https://drive.google.com/file/d/1E_MfzJ9OqEeOwl651BQ-gA5g2RaOz8Oc/view?usp=share_link"
+            href="https://drive.google.com/file/d/1Z1caCsYXIjMXrly6q4FqjQe9DfJ8T-Xg/view?usp=sharing"
             target="_blank"
             download
             color="green"
