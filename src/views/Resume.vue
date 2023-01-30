@@ -52,7 +52,7 @@
                     AUGUST 2021 -
                   </div>
                   <div class="caption font-weight-bold green--text">
-                    PRESENT
+                    JANUARY 2023
                   </div>
                 </v-flex>
                 <v-flex class="pl-2">
