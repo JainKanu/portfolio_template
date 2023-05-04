@@ -1,0 +1,22 @@
+img {
+    width: 350px;
+    height: 350px;
+}
+@media only screen and (max-width: 992px) {
+    img {
+        width: 200px;
+        height: 200px;
+    }
+}
+@media only screen and (min-width: 992px) and (max-width: 1265px) {
+    img {
+        width: 320px;
+        height: 320px;
+    }
+}
+.container {
+    flex: 1 1 100%;
+    margin: auto;
+    padding: 0 24px 30px 24px;
+    width: 100%;
+}
