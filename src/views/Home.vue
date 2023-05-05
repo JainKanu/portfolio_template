@@ -14,6 +14,7 @@
         erase-style="select-back"
         :erase-on-complete="false"
         caret-animation="smooth"
+        style="text-transform: math-auto;"
       ></vue-typer>
     </v-layout>
     <br />
@@ -111,7 +112,7 @@ export default {
       {
         property: 'og:image',
         content:
-          'https://lh3.googleusercontent.com/hAf7sB2i5cvC6vb9I8YKSFh2GjV8WKbfpl0yhTM36JZPhe129kf3wbfsgwUuVVz8dHyo4j4Tgxx0-g9vaeZ3kpgDc94CauBuCTknZ4YNagCm436UUad8hRXlyLsgJMzZ0xzLCC7k2KGW5x24yekOvXr63ugjUKy2QnoUIalM7bCBfuoe77CG7dHxlu-3tA_uLEl01PYnaS_LDJn0npdDzN67p9JyP2rQQ1g0uAcyqJTgtc1hStA7UwlmE5s8fxOl1HlKVBbOQ2VH94wEpXoWM1w-RVwY2gRBu8jEalQtdyXolxZJ1FHnrcX4V0rLO3ArHzbaE4Qx9NWM6SEc2PxVH7p9Yju6Gyl4mwnMqIkHeVflfV_VnwoXSZFvefQKA8JMJO73uS8B6o4f4QPzXFfXZDh6bBp9LAwJrS7hKhCrDZJ1CA7EqhWFsGuoI7UEdNuj55M2KMqS3RGs0IX4xQtjOgiUEi-A5GFnQO8gunO8qouBxlXsEgynZJi8pRVORweTOfBbSiYu8gECePa44XmRC6LfT1rp7FYfue6_VbWdPtK25zvxe0LIyExjjaSHYjOCYC4HwCYGkoT88J-RnmnbQ7zlyNpDEuQt0TWQNzmqeC6PlMm1uCXJ8hWtxaD32LLchlJ1GdTKb6kUAGS3WFbqHOg7KV-MbihN7r2uqBK6czdrvrdiRBkFvoTZROxwOaeQ7J6_vm3K4tUZ-1zjIPdeJxy8=s600-no?authuser=0'
+          'https://lh3.googleusercontent.com/hPIsg782gwv2NKVdqlNVDtDgpKWelaB4MYBJUVeKYO4jFkE5Q9oWaKjTqpS49cc9nsUP5t2oatADR3VKKSy0kKFgCLvT-H-GooqEzonzEXwRmz7um1lORU2MP3ezLboIBDwQ391-9f89dvJy4lD0E2po7Xiqd3fKKjGRks6CIIWUWDKwyeJqQKGm1N6BlPU_qAtN6jC5oR2Pk-sj4aEkfvxFoKbL8Pz2Qdn-sKCiP2Nid1nmg6rLLu9UzAzwdF8f7wv0MNxShEl6pyyur11oAdhtBvH9Lnfcu2nHsmTsJzk_ZloDmq9UhOHM8h5m83Wk3NBEOo6Xofc7z5hFvJqHUyPrUbmzUn42NbUYTp6sm0b29NpATrp3E04vxUPhc-DZznhwKwfB2epaoVBkP-FOXF0T4ea-w5R-GHubuLsCdr0Ab67JLJVhmahrY1lbVIrWArq782VM8q3zJczGe8U241-4v6bLCNjJKZq1od5Sp3am3McBxfi52l7xoF76n3PwnCPN6VKuUlB3Y5W3lIZfQXK3Ban1hhaN5nmzb4vwn4WYq58-p0Ax9aV7_PqloFXjS0SvUb_Mw8KjXiPDNuOUJtcTfJswQFH2yzfGL6HdvPSWTCh0uo8fpup6wK-NImwOgfpu8PET3jhtzs4YQQ-Ez7BUO7uzbmF99v9kOpZEu034YHFh7Ht6UXnYdF2JPNkznWXpLEsBsKsWhHa_nMr6Z50=w704-h937-no?authuser=0'
       }
     ]
   },
@@ -136,8 +137,8 @@ export default {
         }
       ],
       text1: [
-        'Lead Front-End Engineer',
-        'Senior Web Developer',
+        'Lead Software Engineer',
+        'Front-End Developer',
         'Web Designer'
       ]
     }
