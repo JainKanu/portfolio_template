@@ -1,7 +1,19 @@
 <template>
-  <v-container grid-list-xl class="home">
-    <v-layout column justify-center align-center class="mt-5 pb-5">
-      <vue-typer class="headline" :repeat="0" text="Karan Jain"></vue-typer>
+  <v-container
+    grid-list-xl
+    class="home"
+  >
+    <v-layout
+      column
+      justify-center
+      align-center
+      class="mt-5 pb-5"
+    >
+      <vue-typer
+        class="headline"
+        :repeat="0"
+        text="Karan Jain"
+      ></vue-typer>
       <vue-typer
         :text="text1"
         :repeat="Infinity"
@@ -14,14 +26,35 @@
         erase-style="select-back"
         :erase-on-complete="false"
         caret-animation="smooth"
-        style="text-transform: math-auto;"
+        style="text-transform: math-auto"
       ></vue-typer>
     </v-layout>
     <br />
-    <v-layout row justify-center align-center wrap>
-      <v-layout row justify-center align-center wrap class="mt-4 pt-2">
-        <v-flex xs12 sm12 md4 lg7 xl5>
-          <v-card flat color="transparent" max-width="500">
+    <v-layout
+      row
+      justify-center
+      align-center
+      wrap
+    >
+      <v-layout
+        row
+        justify-center
+        align-center
+        wrap
+        class="mt-4 pt-2"
+      >
+        <v-flex
+          xs12
+          sm12
+          md4
+          lg7
+          xl5
+        >
+          <v-card
+            flat
+            color="transparent"
+            max-width="500"
+          >
             <v-card-title primary-title>
               <div>
                 <h3 class="headline mb-0">
@@ -29,6 +62,20 @@
                   <span class="green--text">Me</span>
                 </h3>
                 <div>
+                  <!-- I am a Senior Java Developer with 5+ years of active work
+                  experience within Agile processes. I have strong operational
+                  knowledge of Springboot and Hilla frameworks, and integration
+                  tools such as Gitlab, Jenkins, Cruise Control, and Bamboo.
+                  Coding and release management are my strong suit and I have
+                  worked on tight deadlines in all phases of production with
+                  successful outcomes. I bring to the table my ingenious
+                  analytical and problem-solving capabilities that have averted
+                  many disasters and expedited the production process in my past
+                  jobs. Teamwork, seamless communication, proper documentation,
+                  and enforcing the engineering standards are some of the
+                  facilities that come naturally to me with my years of
+                  experience in the field. -->
+
                   <p>
                     Hello! I’m Karan Jain. Detail-oriented, analytical Lead
                     Software Engineer with more than 4 years of experience in
@@ -80,7 +127,13 @@
           </v-card>
         </v-flex>
       </v-layout>
-      <v-layout row justify-center align-center wrap class="mt-4 pt-2">
+      <v-layout
+        row
+        justify-center
+        align-center
+        wrap
+        class="mt-4 pt-2"
+      >
         <v-flex
           xs10
           sm12
@@ -136,11 +189,7 @@ export default {
           icon: 'fab fa-instagram'
         }
       ],
-      text1: [
-        'Lead Software Engineer',
-        'Front-End Developer',
-        'Web Designer'
-      ]
+      text1: ['Lead Software Engineer', 'Front-End Developer', 'Web Designer']
     }
   }
 }
